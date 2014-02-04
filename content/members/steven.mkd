@@ -1,0 +1,6 @@
+title: Steven Klupt
+tags: [members]
+job: Undergraduate Researcher
+image: steven.jpg
+job_sort: 6
+---

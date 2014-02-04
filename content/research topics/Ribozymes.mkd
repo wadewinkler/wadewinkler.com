@@ -1,0 +1,6 @@
+title: Ribozymes
+tags: [Research]
+---
+### Ribozymes
+
+There are two predominate methods for harnessing cis-acting regulatory RNAs for genetic control: transcription attenuation and translation inhibition. However, an alternate mechanism is used by a glucosamine-6-phosphate (GlcN6P)-sensing RNA located upstream of the glmS gene. Prior studies revealed that GlcN6P promoted an autocatalytic, site-specific cleavage event near the 5' terminus in vitro, thus demonstrating that the RNA is a natural metabolite-responsive ribozyme. More recently, we revealed that ribozyme self-cleavage is coupled to mRNA destabilization. Specifically, our data showed that a change in molecular identity at the 5' terminus is the rate-limiting step for degradation of the downstream mRNA upon ribozyme self-cleavage. Moreover, we have identified the RNase enzyme that is required for mRNA destabilization. We have chosen to investigate this particular mechanism in detail because it is likely to provide key insights into the general "rules" of bacterial mRNA degradation pathways. Also, we anticipate these studies to reveal underlying principles that could be useful for the design of synthetic signal-responsive ribozymes.

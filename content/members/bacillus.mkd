@@ -1,0 +1,7 @@
+title: Bacillus subtilis
+tags: [members]
+job: Our friend and victim
+job_sort: 1
+image: bacillus.jpg
+
+---

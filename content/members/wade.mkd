@@ -1,0 +1,7 @@
+title: Wade Winkler
+tags: [members]
+job: Principal Investigator
+job_sort: 2
+image: wade.jpg
+
+---

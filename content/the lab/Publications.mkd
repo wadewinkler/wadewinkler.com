@@ -1,0 +1,115 @@
+title: Publications
+tags: [The Lab]
+---
+
+
+<div class="publication-list">
+<ul>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22685413"> Ramesh A, DebRoy S, Goodson JR, Fox KA, Faz H, Garsin DA, Winkler WC. 2012. The mechanism for RNA recognition by ANTAR regulators of gene expression. PLoS Genet. 8(6):e1002666.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22010271"> Ferre-D'Amare AR, Winkler WC. 2011. The roles of metal ions in regulation by riboswitches. Met Ions Life Sci 9:141-73.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/21315082">Ramesh A, Wakeman CA, Winkler WC. 2011. Insights into metalloregulation by M-box riboswitch RNAs via structural analysis of manganese-bound complexes. J Mol Biol 407:556-70.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20525796">Irnov I, Sharma CM, Vogel, J, Winkler WC. 2010. Identification of regulatory RNAs in Bacillus subtilis. Nucleic Acids Research 38:6637-51.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20374491">Irnov I, Winkler WC. 2010. A regulatory RNA required for antitermination of biofilm and capsular polysaccharide operons in Bacillales. Mol Microbiol 76:559-75.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/20023416">Ramesh A, Winkler WC. 2010. Magnesium-sensing riboswitches in bacteria. RNA Biol 7:77-83.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19619558">Wakeman CA, Ramesh A, Winkler WC. 2009. Multiple metal binding cores are required for metalloregulation by M box riboswitch RNAs. J Mol Biol 392:723-35.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19246383">Fox KA*, Ramesh A*, Stearns JE, Bourgogne A, Reyes A, Winkler WC*, Garsin DA*. 2008. Multiple posttranscriptional regulatory mechanisms partner to control ethanolamine utilization in Enterococcus faecalis. Proc Natl Acad Sci 106:4435-4440. (*equal contribution)</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19381560">Wakeman CA, Winkler WC. 2009. Analysis of the RNA backbone: Structural analysis of riboswitches by in-line probing and selective 2'-hydroxyl acylation and primer extension (SHAPE). Methods Mol Biol 540:173-191.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19381554">Brautigam CA, Wakeman CA, Winkler WC. 2009. Methods for analysis of ligand-induced RNA conformational changes. Methods Mol Biol 540:77-95.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19377977">Wakeman CA, Winkler WC. 2009. Structural probing techniques for natural aptamers. Methods Mol Biol 535:115-133.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/19250859">Dambach M, Winkler WC. 2009. Expanding roles for metabolite-sensing RNAs. Curr Opin Microbiol 12:161-169.</a></div>
+</li>
+<li>
+<div class="publication">Attia AS, Sedillo JL, Wang W, Liu W, Brautigam CA, Winkler WC, Hansen EJ. 2008. Moraxella catarrhalis expresses an unusual Hfq protein. Infect Immun 76:2520-2530.</div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/18079181">Collins JA, Irnov I, Baker SC, Winkler WC. 2007. Mechanism of mRNA destabilization by the glmS ribozyme. Genes &amp; Dev 21:3356-3368.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/17803910">Dann CE*, Wakeman CA*, Sieling CL, Baker SC, Irnov I, Winkler WC. 2007. Structure and mechanism of a metal-sensing regulatory RNA. Cell 130:878-892. (*equal contribution)</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/17764952">Wakeman CA, Winkler WC, Dann CE. 2007. Structural features of metabolite-sensing riboswitches. Trends Biochem Sci 32:415-424.</a></div>
+</li>
+<li>
+<div class="publication">Roth A, Winkler WC, Regulski EE, Lee BW, Lim J, Jona I, Barrick JE, Ritwick A, Kim JN, Welz R, Iwata-Reuyl D, Breaker RR. 2007. A riboswitch selective for the queuosine precursor preQ(1) contains an unusually small aptamer. Nat Struct Mol Biol 14:308-317.</div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/17381303">Irnov, Kertsburg A, Winkler WC. 2006. Genetic control by cis-acting regulatory RNAs in Bacillus subtilis: General principles and prospects for discovery. Cold Spring Harb Quant Biol 71:239-249.</a></div>
+</li>
+<li>
+<div class="publication">Winkler WC, Dann CE. 2006. RNA allostery glimpsed. Nat Struct Mol Biol 13:569-571.</div>
+</li>
+<li>
+<div class="publication">Winkler WC. 2005. Riboswitches and the role of noncoding RNAs in bacterial metabolic control. Curr Opin Chem Biol 9:594-602.</div>
+</li>
+<li>
+<div class="publication">Winkler WC, Breaker RR. 2005. Regulation of bacterial gene expression by riboswitches. Ann Rev Microbiol 59:487-517.</div>
+</li>
+<li>
+<div class="publication">Wickiser JK, Winkler WC, Breaker RR, Crothers D. 2005. The speed of RNA transcription and metabolite binding kinetics operate an FMN riboswitch. Molecular Cell 18:49-60.</div>
+</li>
+<li>
+<div class="publication">Lim J, Winkler WC, Nakamura S, Scott V, Breaker RR. 2005. Molecular-recognition characteristics of SAM-binding riboswitches. Agnew Chem Int Ed Engl 34:964-968.</div>
+</li>
+<li>
+<div class="publication">Winkler WC. 2005. Metabolic monitoring by bacterial mRNAs. Archives in Microbiol 183:151-159.</div>
+</li>
+<li>
+<div class="publication">Barrick JE, Corbino KA, Winkler WC, Nahvi A, Mandal M, Collins J, Lee M, Roth A, Sudarsan N, Jona I, Wickiser JK, Breaker RR. 2004. RNA motifs suggest an expanded scope for riboswitches in bacterial genetic control. Proc Natl Acad Sci 101:6421-6426.</div>
+</li>
+<li>
+<div class="publication">Winkler WC*, Nahvi A*, Roth A*, Collins JA*, Breaker RR. 2004. Control of bacterial gene expression by a natural metabolite-responsive ribozyme. Nature. 428:281-286.</div>
+</li>
+<li>
+<div class="publication">Winkler WC, Nahvi A, Sudarsan N, Barrick JE, Breaker RR. 2003. An mRNA structure that controls gene expression by binding S-adenosylmethionine. Nat Struct Biol 10:701-707.</div>
+</li>
+<li>
+<div class="publication">Mandal M, Boese B, Barrick JE, Winkler WC, Breaker RR. 2003. Metabolite-sensing riboswitches control fundamental biochemical pathways, in bacteria. Cell 113:577-586.</div>
+</li>
+<li>
+<div class="publication">Winkler WC, Breaker RR. 2003. Genetic control by metabolite-binding riboswitches. ChemBioChem 4:1024-1032.</div>
+</li>
+<li>
+<div class="publication">Winkler WC, Cohen-Chalamish S, Breaker RR. 2002. An mRNA structure that controls gene expression by binding FMN. Proc Natl Acad Sci 99:15908-15913.</div>
+</li>
+<li>
+<div class="publication">Winkler W, Nahvi A, Breaker RR. 2002. Thiamine derivatives bind messenger RNAs directly to regulate bacterial gene expression. Nature 419:952-956.</div>
+</li>
+<li>
+<div class="publication">Grundy FJ, Winkler WC, Henkin TM. 2002. tRNA-mediated transcription antitermination in vitro: Codon-anticodon pairing independent of the ribosome. Proc Natl Acad Sci 99:11121-11126.</div>
+</li>
+<li>
+<div class="publication">Winkler WC, Grundy FJ, Murphy BA, Henkin TM. 2001. The GA motif: An RNA element common to bacterial antitermination systems, rRNA, and eukaryotic RNAs. RNA 7:1165-1172.</div>
+</li>
+<li>
+<div class="publication">Curnow AW, Hong K, Yuan R, Kim S, Martins O, Winkler W, Henkin TM, Soll D. 1997. Glu-tRNAGln amidotransferase: A novel heterotrimeric enzyme required for correct decoding of glutamine codons during translation. Proc Natl Acad Sci 94:11819-11826.</div>
+</li>
+<li>
+<div class="publication">Winkler WC, Gonzalez G, Wittenberg JB, Hille R, Dakappagari N, Jacob A, Gonzalez LA, Gilles-Gonzalez MA. 1996. Nonsteric factors dominate binding of nitric oxide, azide, imidazole, cyanide, and fluoride to the Rhizobial heme-based oxygen sensor FixL. Chem and Biol 3:841-850.</div>
+</li>
+</ul>
+</div>
+

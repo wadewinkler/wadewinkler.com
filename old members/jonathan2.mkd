@@ -1,0 +1,6 @@
+title: Jonathan Cothran
+tags: [members]
+job: Undergraduate Researcher
+image: jonathan2.png
+job_sort: 6
+---

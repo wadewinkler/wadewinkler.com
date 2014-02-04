@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block header %}
+
+<style>
+
+    .about-me {
+        text-align: right;
+    }
+    .lab-member-photo {
+
+    }
+    .lab-member-photo-col {
+        width: 20%;
+    }
+    @media (max-width: 480px) {
+        .lab-member-photo-col {
+            padding: 1px !important;
+        }
+        .lab-member-info-col {
+            font-size: 12px;
+        }
+    }
+    @media (max-width: 767px) {
+        .lab-member-photo-col {
+            padding: 4px !important;
+        }
+    }
+
+</style>
+
+{% endblock %}
+
+{% block content %}
+    <table class="table members-table">
+    {%- for member in site.tags['members']|sort(attribute='job_sort') %}
+        <tr>
+            <td class="lab-member-info-col">
+                <div class="about-me">
+                    <span class="about-me-name">{{ member.title }}</span>
+                    <br>
+                    <span class="about-me-job">{{ member.job }}</span>
+                </div>
+                <div class="about-me-content">
+                    <span>{{ member.content }}</span>
+                </div>
+            </td>
+
+            <td class="lab-member-photo-col">
+                <img class="lab-member-photo" src="/img/headshot/{{ member.image }}">
+            </td>
+        </tr>
+    {%- endfor %}
+    </table>
+{% endblock %}

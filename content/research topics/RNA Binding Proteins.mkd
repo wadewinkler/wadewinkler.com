@@ -1,0 +1,6 @@
+title: RNA Binding Proteins
+tags: [Research]
+---
+### RNA Binding Proteins
+
+In recent years it has become clear that a fully integrated perspective on bacterial posttranscriptional regulation will require improved understanding of RNA-protein regulatory networks. RNA regulatory circuits are likely to be interconnected in a cellular environment through the action of RNA-binding proteins. However, these networks of RNA regulators and proteins have not been systematically explored. Moreover, despite a fair amount of research attention, many bacterial RNA-binding proteins remain enigmatic and the full extent of their functional roles is oftentimes unclear. For these and other reasons, we are developing approaches for identification and analyses of eubacterial RNA-binding proteins and their RNA substrates.

@@ -1,0 +1,7 @@
+title: Jonathan Goodson
+tags: [members]
+job: Graduate Student
+job_sort: 4
+image: jonathan.jpg
+---
+I'm a graduate student in the Computational Biology, Bioinformatics, and Genomics program. I do a mix of microbiology/molecular genetics and computational biology focusing on transcriptomics.

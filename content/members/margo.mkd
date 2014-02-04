@@ -1,0 +1,7 @@
+title: Margo Gebbie
+tags: [members]
+job: Graduate Student
+job_sort: 4
+image: margo.jpg
+---
+I received my Bachelor's from the University at Albany in Biology and am currently a second year graduate student at University of Maryland Biochemistry Ph.D. program.  I work on bacterial development. 

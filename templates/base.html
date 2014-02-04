@@ -1,0 +1,211 @@
+<!doctype html>
+<html>
+
+<head>
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <style>
+
+            /* GLOBAL STYLES
+            -------------------------------------------------- */
+            /* Padding below the footer and lighter body text */
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            color: #5a5a5a;
+            background-color: #e2e2e2;
+        }
+
+        .site {
+            background-color: #efefef;
+            min-height: 100%;
+            max-width: 1000px;
+
+        }
+
+        .container {
+            max-width: 1000px;
+        }
+		.navbar {
+		    border-radius: 0px;
+		}
+
+        .navbar .navbar-brand {
+            font-size: 16px;
+            font-weight: bold;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, .5);
+        }
+        
+        .navbar .navbar-brand {
+            font-size: 16px;
+            font-weight: bold;
+            text-shadow: 0 -1px 0 rgba(0, 0, 0, .5);
+        }
+
+        /* Navbar links: increase padding for taller navbar */
+        .nav > li > a {
+            padding: 15px 20px;
+        }
+
+        .navbar-inner {
+            border-radius: 0;
+        }
+
+
+        .carousel {
+            margin-bottom: 0;
+        }
+
+
+        .wrapper {
+            max-width: 1000px;
+        }
+
+        .content {
+            padding: 0 20px 70px;
+            width: auto;
+        }
+
+        .site {
+            min-height: 100%;
+            margin: 0 auto -60px;
+        }
+
+        #footer {
+            height: 60px;
+            background-color: #f9f9f9;
+
+        }
+
+        .credit {
+            padding-top: 20px;
+            text-align: center;
+
+
+        }
+
+        .carousel-indicators {
+            right: 0;
+            top: 0px;
+            width: auto;
+            margin-bottom: 0px;
+            left: auto;
+            padding-right: 5px;
+        }
+        
+
+        
+
+    </style>
+
+    {% block header %}
+    {% endblock header %}
+</head>
+
+<body>
+<div class="container site">
+    <header>
+
+        <div id="myCarousel" class="carousel slide">
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class=""></li>
+                <li data-target="#myCarousel" data-slide-to="1" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="2" class=""></li>
+                <li data-target="#myCarousel" data-slide-to="3" class=""></li>
+            </ol>
+            <div class="carousel-inner">
+                <div class="item">
+                    <img src="/img/headers/header-structure.png" alt="">
+
+                </div>
+                <div class="item active">
+                    <img src="/img/headers/header-bacteria.png" alt="">
+
+                </div>
+                <div class="item">
+                    <img src="/img/headers/header-transcriptomics.png" alt="">
+
+                </div>
+                <div class="item">
+                    <img src="/img/headers/header-biochemistry.png" alt="">
+
+                </div>
+            </div>
+
+            <!--
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev"><</a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">></a>
+            -->
+        </div>
+
+
+        <nav>
+            <div class="navbar navbar-inverse">
+                <div class="navbar-inner">
+                    <div class="container">
+
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            				<span class="icon-bar"></span>
+            				<span class="icon-bar"></span>
+            				<span class="icon-bar"></span>
+          				</button>
+						
+                        <a class="navbar-brand" href="/index.html">{{ site.title }}</a>
+
+                        <div class="navbar-collapse collapse">
+                            <ul class="nav navbar-nav">
+
+                                {%- for category in site.categories %}
+                                <li class="dropdown">
+                                    <a href="#" class="dropdown-toggle" data-toggle="dropdown">{{ category }} <b
+                                            class="caret"></b></a>
+                                    <ul class="dropdown-menu">
+                                        {%- for page in site.tags[category] %}
+                                        <li><a href="{{ page.url }}">{{ page.title }}</a></li>
+                                        {%- endfor %}
+                                    </ul>
+                                </li>
+                                {%- endfor %}
+
+
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </nav>
+    </header>
+
+    <article class="wrapper">
+        <div class="container content">
+            {% block content %}
+            {% endblock content %}
+
+        </div>
+
+    </article>
+</div>
+<div class="container">
+    <div id="footer">
+        <p class="muted credit">Fueled by science.</p>
+    </div>
+</div>
+
+<script src="http://code.jquery.com/jquery-1.9.1.min.js"></script>
+<script src="http://netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function() {
+        $('.carousel').carousel({
+            interval: 5000
+        })
+    });
+</script>
+{% block end %}
+{% endblock end %}
+</body>

@@ -1,0 +1,7 @@
+title: Arati Ramesh
+tags: [members]
+job: Postdoc
+job_sort: 3
+image: arati.png
+---
+Arati Ramesh [B.S. St. Ann's College, Hyderabad, India; M.S. University of Pune, India; Ph.D. Texas A&M University (mentor: James C. Sacchettini, Ph.D.)]: With a past in protein biochemistry/crystallography and a present in RNA structure/function, I could safely say that my broad (read "brooooooooaaaaaaad") scientific interests lie in all things protein and all things RNA. My current research is centered around signal-responsive protein-RNA interactions that control gene regulation. (...and someday...I also want to write a best-seller on "Minimizing your carbon footprint while doing research").

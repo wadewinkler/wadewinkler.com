@@ -1,0 +1,6 @@
+title: Guido Massaccesi
+tags: [members]
+job: Undergraduate Researcher
+image: guido.jpg
+job_sort: 6
+---

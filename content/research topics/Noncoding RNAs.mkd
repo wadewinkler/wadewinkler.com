@@ -1,0 +1,7 @@
+title: Noncoding RNAs
+slug: noncoding
+tags: [Research]
+---
+### Noncoding RNAs
+
+We anticipate that bioinformatics-based discoveries of novel noncoding RNAs will be complicated by the fact that some RNA classes will exhibit substantially less primary sequence and secondary structure conservation than others. Therefore, we are also working to develop experimental approaches that will complement bioinformatics-based efforts. Using these techniques we have identified many novel, candidate regulatory RNAs. We anticipate the sum of these emerging data to expand our understanding of global posttranscriptional regulation in Firmicutes and improve our ability to search for novel regulatory RNAs and the proteins that stabilize them.

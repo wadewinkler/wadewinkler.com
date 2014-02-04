@@ -1,0 +1,6 @@
+title: Antitermination
+tags: [Research]
+---
+### Antitermination
+
+Processive antitermination occurs when bacterial RNA polymerase becomes allosterically altered by accessory factors, such as elongation factors, to become resistant to downstream pausing and termination signals. The most thoroughly analyzed examples affect transcription of the lambda phage genome and rRNA genes in E. coli. However, such mechanisms have been less characterized in non-proteobacterial species. Indeed, only five classes have been described overall and more than a decade has passed since the last new example. We have discovered a novel processive antitermination mechanism that is required for synthesis of biofilm and capsular polysaccharide genes. This particular antitermination mechanism is mediated by an RNA element that is conserved among Bacillales. These observations suggest that processive antitermination may be mediated by structurally complex noncoding RNAs and may be widespread in Gram-positive bacteria as a mechanism to ensure full synthesis of particular classes of operons. Given the increasing pace that noncoding and regulatory RNAs are being identified, this discovery suggests that there could be other uncharacterized RNA elements that play a role in processive antitermination.

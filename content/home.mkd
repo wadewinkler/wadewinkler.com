@@ -1,0 +1,7 @@
+title: Home
+url: /index.html
+nav_sort: 1
+---
+### Welcome to Wade Winkler's Lab!
+
+All organisms must regulate the expression of their genes. Oftentimes, these regulatory processes are responsive to specific chemical and physical cues. The overreaching goal of our laboratory is to discover new classes of such regulatory circuits and to reveal their underlying molecular mechanisms. We focus in particular on signal-responsive regulatory RNAs, which offer sensitive, accurate and rapid means for modulating gene expression. Also, our knowledge on RNA-based regulatory mechanisms has become sufficiently informed that we are beginning to pursue their synthetic applications.
