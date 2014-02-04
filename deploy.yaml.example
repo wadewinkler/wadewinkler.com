@@ -1,0 +1,13 @@
+#deploy_target: none
+deploy_target: s3
+s3_bucket: www.website.com
+s3_access_key: ACCESS_KEY
+s3_secret_key: SECRET_KEY
+cache:              # List of file extensions with cache periods in seconds
+  jpg: 864000
+  jpeg: 864000
+  png: 864000
+  html: 86400
+  js: 864000
+  css: 864000
+expires: 365        # Expires header, days in future
