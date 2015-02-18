@@ -5,6 +5,8 @@ tags: [The Lab]
 <tbody><tr>
 <td>
             <img src="/img/misc/030416_1880_0163_xsls.jpg" alt="" title="The Departed" width="198" height="132" class="alignnone size-full wp-image-112"><br><p></p>
+
+
 <br><p>            <h5 class="about-me-name">michael dambach</h5>
 </p><div class="about-me">
             graduate student<br>
@@ -85,9 +87,12 @@ tags: [The Lab]
         </div>
 <br><p>            <h5 class="about-me-name">undergraduate students</h5>
 </p><div class="about-me">
+			cristian salgado<br>
+			madeline junker<br>
             rohini choudhuri<br>
             jonathan cothran<br>
-
+            guido massaccesi<br>
+            leah birdwell<br>
         </div>
 <br><p>            <h5 class="about-me-name">visiting undergraduate students</h5>
 </p><div class="about-me">
@@ -99,13 +104,15 @@ tags: [The Lab]
         </div>
 </td>
 <td style="vertical-align:top">
-<img src="/img/misc/Jenny-and-Catherine.jpg" alt="" title="Jenny and Catherine" width="200" height="150" class="alignnone size-full wp-image-118"><br>
-<img src="/img/misc/Irnov-and-Catherine.jpg" alt="" title="Irnov and Catherine" width="200" height="150" class="alignnone size-full wp-image-115"><br>
-<img src="/img/misc/Irnov.jpg" alt="" title="Irnov" width="150" height="200" class="alignnone size-full wp-image-116"><br>
-<img src="/img/misc/Irnov2.jpg" alt="" title="Irnov2" width="200" height="150" class="alignnone size-full wp-image-117"><br>
-<img src="/img/misc/Jenny.jpg" alt="" title="Jenny" width="200" height="150" class="alignnone size-full wp-image-119"><br>
-<img src="/img/misc/Vineetha.jpg" alt="" title="Vineetha" width="150" height="200" class="alignnone size-full wp-image-121"><br>
-<img src="/img/misc/Taylor.jpg" alt="" title="Taylor" width="150" height="200" class="alignnone size-full wp-image-120">
+<img src="/img/misc/reunion.jpg" alt="" title="Conference Meetup" width="200" height="200" class="alignnone size-full"><br>
+<img src="/img/misc/2ebc4d4.jpg" alt="" title="Mike" width="200" height="200" class="alignnone size-full"><br>
+<img src="/img/misc/Jenny-and-Catherine.jpg" alt="" title="Jenny and Catherine" width="200" height="150" class="alignnone size-full"><br>
+<img src="/img/misc/Irnov-and-Catherine.jpg" alt="" title="Irnov and Catherine" width="200" height="150" class="alignnone size-full"><br>
+<img src="/img/misc/Irnov.jpg" alt="" title="Irnov" width="150" height="200" class="alignnone size-full"><br>
+<img src="/img/misc/Irnov2.jpg" alt="" title="Irnov2" width="200" height="150" class="alignnone size-full"><br>
+<img src="/img/misc/Jenny.jpg" alt="" title="Jenny" width="200" height="150" class="alignnone size-full"><br>
+<img src="/img/misc/Vineetha.jpg" alt="" title="Vineetha" width="150" height="200" class="alignnone size-full"><br>
+<img src="/img/misc/Taylor.jpg" alt="" title="Taylor" width="150" height="200" class="alignnone size-full">
 </td>
 </tr>
 </tbody></table>

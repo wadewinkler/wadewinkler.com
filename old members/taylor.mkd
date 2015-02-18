@@ -1,0 +1,6 @@
+title: Taylor Rutter
+tags: [members]
+job: Research Technician
+job_sort: 5
+image: placeholder.png
+---

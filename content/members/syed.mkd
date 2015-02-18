@@ -1,7 +1,0 @@
-title: Syed Zaheer
-tags: [members]
-job: Graduate Student
-job_sort: 4
-image: syed.png
----
-I graduated from the University of Chicago and began my graduate studies at the University of Texas Southwestern Medical Center. As the lab transitioned to Maryland, I decided to also transfer graduate programs to join the Biochemistry program at UMD.

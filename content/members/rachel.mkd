@@ -1,6 +1,6 @@
 title: Rachel Wallick
 tags: [members]
 job: Undergraduate Researcher
-image: placeholder.png
+image: rachel.jpg
 job_sort: 6
 ---

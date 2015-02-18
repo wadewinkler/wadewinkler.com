@@ -6,6 +6,18 @@ tags: [The Lab]
 <div class="publication-list">
 <ul>
 <li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/25146291"> DebRoy S, Gebbie M, Ramesh A, Goodson JR, Cruz MR, van Hoof A, Winkler WC, Garsin DA. 2014. A riboswitch-containing sRNA controls gene expression by sequestration of a response regulator. Science. 345(6199):937-40.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24769284"> Ramesh A, Winkler WC. 2014. Metabolite-binding ribozymes. Biochim Biophys Acta. 1839(10):989-994.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24968120"> Shin JH, Wakeman CA, Goodson JR, Rodionov DA, Freedman BG, Senger RS, Winkler WC. 2014. Transport of magnesium by a bacterial Nramp-related gene. PLoS Genet. 10(6):e1004429.</a></div>
+</li>
+<li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/24415722"> Wakeman CA, Goodson JR, Zacharia VM, Winkler WC. 2014. Assessment of the requirements for magnesium transporters in Bacillus subtilis. J Bacteriol. 196(6):1206-14.</a></div>
+</li>
+<li>
 <div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/22685413"> Ramesh A, DebRoy S, Goodson JR, Fox KA, Faz H, Garsin DA, Winkler WC. 2012. The mechanism for RNA recognition by ANTAR regulators of gene expression. PLoS Genet. 8(6):e1002666.</a></div>
 </li>
 <li>

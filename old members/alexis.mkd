@@ -1,0 +1,6 @@
+title: Alexis Kertsburg
+tags: [members]
+job: Postdoc
+job_sort: 3
+image: placeholder.png
+---

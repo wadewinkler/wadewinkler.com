@@ -1,0 +1,6 @@
+title: Eric Roche
+tags: [members]
+job: Senior Research Scientist
+job_sort: 3
+image: placeholder.png
+---

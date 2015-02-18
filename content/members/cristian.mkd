@@ -1,6 +1,0 @@
-title: Cristian Salgado
-tags: [members]
-job: Undergraduate Researcher
-image: cristian.jpg
-job_sort: 6
----
