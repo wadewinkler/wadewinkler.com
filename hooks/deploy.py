@@ -61,7 +61,7 @@ def deploy_to_s3(bucket_name, access, secret, output_folder, cache=False, expire
             if cache and ext in cache.keys():
                 headers = {
                     'Cache-Control': 'max-age=%d, public' % cache[ext],
-                    'Expires': format_date_time(mktime((datetime.now()+timedelta(expires)).timetuple()))
+                    #'Expires': format_date_time(mktime((datetime.now()+timedelta(expires)).timetuple()))
                 }
             else:
                 headers = {}
