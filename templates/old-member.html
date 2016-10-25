@@ -32,6 +32,7 @@
 {% endblock %}
 
 {% block content %}
+<h3>Previous Lab Members</h3>
     <table class="table members-table">
     {%- for member in site.tags['old-members']|sort(attribute='order', reverse=True) %}
         <tr>
@@ -52,8 +53,9 @@
         </tr>
     {%- endfor %}
     <tr>
-    	<td>Undergraduate Students</td>
-    </tr>
+    </table>
+<h3>Undergraduate Students</h3>
+    <table class="table members-table">
     {%- for member in site.tags['old-undergrads']|sort(attribute='order') %}
         <tr>
             <td class="lab-member-info-col">
