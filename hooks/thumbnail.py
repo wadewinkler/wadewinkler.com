@@ -1,6 +1,6 @@
 # create (max size) thumbnails of all JPEG images in each album folder
 import glob
-import Image
+from PIL import Image
 import os
 
 ORIG_THUMBNAIL_SIZE = [128, 128]

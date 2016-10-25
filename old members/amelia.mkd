@@ -1,6 +1,6 @@
 title: Amelia Stephens
 tags: [members]
 job: Undergraduate Researcher
-image: placeholder.png
+image: amelia.jpg
 job_sort: 6
 ---

@@ -1,0 +1,7 @@
+title: Cordelia Weiss
+tags: [members]
+job: Graduate Student
+job_sort: 4
+image: cordelia.jpg
+---
+I am a second year graduate student in the Molecular and Cell Biology Program. I received my Bachelor's of Science in Biology from Virginia Tech. My interest is in studying cellular development and gene regulation in bacteria using microscopy.

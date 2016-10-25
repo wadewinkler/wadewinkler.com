@@ -87,6 +87,7 @@ tags: [The Lab]
         </div>
 <br><p>            <h5 class="about-me-name">undergraduate students</h5>
 </p><div class="about-me">
+			steven klupt<br>
 			cristian salgado<br>
 			madeline junker<br>
             rohini choudhuri<br>

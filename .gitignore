@@ -4,3 +4,4 @@ venv
 output
 deploy.yaml
 .dropbox
+.pyc
