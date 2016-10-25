@@ -6,6 +6,9 @@ tags: [The Lab]
 <div class="publication-list">
 <ul>
 <li>
+<div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/25794617"> Furukawa K, Ramesh A, Zhou Z, Weinberg Z, Vallery T, Winkler WC, Breaker RR. 2015. Bacterial riboswitches cooperatively bind Ni(2+) or Co(2+) ions and control expression of heavy metal transporters. Mol Cell. 57(6):1088-98</a></div>
+</li>
+<li>
 <div class="publication"><a href="http://www.ncbi.nlm.nih.gov/pubmed/25146291"> DebRoy S, Gebbie M, Ramesh A, Goodson JR, Cruz MR, van Hoof A, Winkler WC, Garsin DA. 2014. A riboswitch-containing sRNA controls gene expression by sequestration of a response regulator. Science. 345(6199):937-40.</a></div>
 </li>
 <li>
