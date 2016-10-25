@@ -2,7 +2,7 @@ title: Arati Ramesh
 tags: [old-members]
 job: Postdoc
 job_sort: 3
-order: 14
+order: 15
 image: arati.png
 ---
 Last Known: Assistant Professor - National Centre for Biological Sciences, Bangalore
