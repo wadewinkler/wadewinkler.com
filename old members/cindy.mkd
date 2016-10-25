@@ -1,6 +1,0 @@
-title: Cindy Tsai
-tags: [members]
-job: 
-job_sort: 5
-image: placeholder.png
----

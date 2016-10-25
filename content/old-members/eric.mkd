@@ -1,6 +1,8 @@
 title: Eric Roche
-tags: [members]
+tags: [old-members]
 job: Senior Research Scientist
 job_sort: 3
+order: 4
 image: placeholder.png
 ---
+Last Known: Healthpoint Ltd., Fort Worth

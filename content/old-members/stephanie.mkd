@@ -1,6 +1,8 @@
 title: Stephanie Baker
-tags: [members]
+tags: [old-members]
 job: Research Technician
 job_sort: 5
+order: 3
 image: placeholder.png
 ---
+Last Known: Medical Student, Texas Tech

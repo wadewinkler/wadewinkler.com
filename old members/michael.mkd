@@ -1,6 +1,0 @@
-title: Michael Dambach
-tags: [members]
-job: Graduate Student
-job_sort: 4
-image: placeholder.png
----

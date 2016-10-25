@@ -1,6 +1,7 @@
 title: Amelia Stephens
-tags: [members]
+tags: [old-undergrads]
 job: Undergraduate Researcher
 image: amelia.jpg
+order: 7
 job_sort: 6
 ---

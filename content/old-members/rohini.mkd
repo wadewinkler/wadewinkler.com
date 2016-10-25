@@ -1,6 +1,7 @@
 title: Rohini Choudhuri
-tags: [members]
+tags: [old-undergrads]
 job: Undergraduate Researcher
 image: placeholder.png
 job_sort: 6
+order: 1
 ---

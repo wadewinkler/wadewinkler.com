@@ -1,0 +1,7 @@
+title: Grace Ellis
+tags: [old-members]
+job: Graduate Student
+job_sort: 16
+order: 16
+image: grace.jpg
+---

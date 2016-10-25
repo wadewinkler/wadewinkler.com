@@ -1,0 +1,6 @@
+title: Syed Zaheer
+tags: [old-members]
+job: Graduate Student
+order: 15
+image: syed.png
+---

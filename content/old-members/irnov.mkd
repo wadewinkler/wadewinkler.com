@@ -1,6 +1,8 @@
 title: Irnov
-tags: [members]
+tags: [old-members]
 job: Graduate Student
 job_sort: 4
+order: 11
 image: placeholder.png
 ---
+Last Known: Post-Doc, Yale University

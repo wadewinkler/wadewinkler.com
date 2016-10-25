@@ -1,6 +1,8 @@
 title: Ruoqi Gao
-tags: [members]
+tags: [old-members]
 job: Research Technician
 job_sort: 5
+order: 6
 image: placeholder.png
 ---
+Last Known: MD/PhD Student, Northwestern

@@ -1,6 +1,7 @@
-title: Taylor Rutter
-tags: [members]
+title: Jennifer Collins
+tags: [old-members]
 job: Research Technician
 job_sort: 5
+order: 7
 image: placeholder.png
 ---

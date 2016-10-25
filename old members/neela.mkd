@@ -1,6 +1,0 @@
-title: Neela Keshevan
-tags: [members]
-job: Postdoc
-job_sort: 3
-image: placeholder.png
----

@@ -1,0 +1,8 @@
+title: Catherine Wakeman
+tags: [old-members]
+job: Graduate Student
+job_sort: 4
+order: 12
+image: catherine.jpg
+---
+Last Known: Assistant Professor, Texas Tech University

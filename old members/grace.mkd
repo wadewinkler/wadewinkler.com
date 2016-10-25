@@ -1,7 +1,0 @@
-title: Grace Ellis
-tags: [members]
-job: Graduate Student
-job_sort: 4
-image: grace.jpg
----
-I earned my undergraduate degree from Texas A&M and am currently enrolled as a Ph.D. student with the University of Texas Southwestern Medical Center. Recently, I relocated with the lab (read: "did the dirty work to set everything up") to continue my graduate work at the University of Maryland.

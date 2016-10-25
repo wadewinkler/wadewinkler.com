@@ -1,0 +1,8 @@
+title: Taylor Rutter
+tags: [old-members]
+job: Research Technician
+job_sort: 5
+order: 9
+image: Taylor.jpg
+---
+Last Known: Graduate Student, University of North Texas

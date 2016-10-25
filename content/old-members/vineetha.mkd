@@ -1,0 +1,8 @@
+title: Vineetha Zacharia
+tags: [old-members]
+job: Graduate Student
+job_sort: 4
+order: 10
+image: Vineetha.jpg
+---
+Last Known: Graduate Student, UTSW

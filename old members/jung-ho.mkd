@@ -1,7 +1,0 @@
-title: Jung-Ho Shin
-tags: [members]
-job: Postdoc
-job_sort: 3
-image: jung-ho.png
----
-I am originally from Korea and earned Ph.D. in Molecular Microbiology at Seoul National University where I studied the oxidative and metal stress response in the laboratory of Dr. Roe. My current project focuses on understanding the metal sensing RNAs and regulatory mechanisms involved in metal homeostasis and pathogenicity.

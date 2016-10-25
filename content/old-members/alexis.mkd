@@ -1,6 +1,8 @@
 title: Alexis Kertsburg
-tags: [members]
+tags: [old-members]
 job: Postdoc
 job_sort: 3
+order: 5
 image: placeholder.png
 ---
+Last Known: Wyeth Pharm

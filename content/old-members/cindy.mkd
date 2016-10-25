@@ -1,0 +1,8 @@
+title: Cindy Tsai
+tags: [old-members]
+job: 
+job_sort: 5
+order: 1
+image: placeholder.png
+---
+Last Known: Medical Student at Texas Tech - El Paso

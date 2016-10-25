@@ -1,0 +1,7 @@
+title: Jung-Ho Shin
+tags: [old-members]
+job: Postdoc
+job_sort: 3
+order: 15
+image: jung-ho.png
+---

@@ -1,6 +1,6 @@
 title: Guido Massaccesi
-tags: [members]
+tags: [old-undergrads]
 job: Undergraduate Researcher
 image: guido.jpg
-job_sort: 6
+order: 2
 ---

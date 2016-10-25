@@ -1,0 +1,6 @@
+title: Michael Dambach
+tags: [old-members]
+job: Graduate Student
+order: 13
+image: michael.jpg
+---
