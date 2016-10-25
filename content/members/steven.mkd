@@ -1,6 +1,6 @@
 title: Steven Klupt
 tags: [members]
-job: Undergraduate Researcher
+job: Technician
 image: steven.jpg
-job_sort: 6
+job_sort: 5
 ---

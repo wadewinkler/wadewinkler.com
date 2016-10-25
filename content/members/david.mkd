@@ -1,0 +1,6 @@
+title: David Rickert
+tags: [members]
+job: Undergraduate Researcher
+image: david.jpg
+job_sort: 6
+---
